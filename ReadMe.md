@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on an ML-based trading model.<br>🌱 I am currently learning Algo trading, Computer Networks, Deep Learning in Medical Imaging, NLP (LLM Transformer).<br>💬 Ask me about competitive programming.<br>⚡️ Fun fact: Speaks 5 languages.<br>
+### 🔭 I am currently working on an ML-based trading model.<br>🌱 I am currently learning Algo trading, Computer Networks, Deep Learning in Medical Imaging, NLP (LLM Transformer).<br>💬 Ask me about competitive programming.<br>⚡️ Fun fact: Speaks 5 languages.<br>
 
 
 ## 🌐 Socials:
