@@ -13,8 +13,7 @@
 Implemented and deployed two new Smart Contract bug detectors analyzing thousands of contracts.</br>
 <em>Skills:</em> SPARQL, Python, JDK 12 (Programming Languages), Research, Auditing </br></br>
 
-**Bank of America — Software Engineer & Architect Intern**, New York, NY&emsp;&emsp;&emsp;&emsp;&emsp;June 2022 – August 2022</br>  
-Designed and deployed job script that forward weekly applications performance reports accross the bank.</br>
+**Bank of America — Software Engineer & Architect Intern**, New York, NY&emsp;&emsp;&emsp;&emsp;&emsp;June 2022 – August 2022</br>Designed and deployed job script that forward weekly applications performance reports accross the bank.</br>
 <em>Skills:</em> Python, JavaScript, Bash (Programming Languages), Full Stack-development </br></br>
 
 **Retool Development — Self-employed Application Developer**, New York, NY&emsp;&emsp;&emsp;May 2022 – September 2022</br>
@@ -22,10 +21,10 @@ Built a robust Customer Relationship Management (CRM) application, allowing empl
 <em>Skills:</em> MySQL, JavaScript (Programming Languages), AWS Full Stack-development </br></br>
 
 ## 📽️ Projects:
-**Live Trading Model** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; December 2022 – Present</br>
+**Live Trading Model** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; December 2022 – Present</br>
 Developing a live trading model using statistical methods and machine learning for identifying and executing trades.</br>
 <em>Skills:</em> yfinance, Python, Machine Learning, Statistical Arbitrage. </br></br>
-**Llama – Compiler and Translator**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;January 2022 – May 2022</br>
+**Llama – Compiler and Translator**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;January 2022 – May 2022</br>
 Designed and developed a new programming language, Llama, using OCaml for Abstract Syntax Tree, Parser, Semantic Checker, and IR generator.</br>
 <em>Skills:</em> OCaml, C++, AST, Parser, Semantic Analysis, LLVM IR)</br></br>
 
