@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alphak/) 
 
 ## 👨🏾‍💻 Professional Experiences:
-Certik — Software Engineering Intern, New York, NY                                                                               		        October 2022 – Present
+Certik — Software Engineering Intern, New York, NY                                                                               October 2022 – Present</br>
 Implemented and deployed two new Smart Contract bug detectors syntactic analyzer tools auditing more than 5,000 Smart Contracts worth +360 billion dollars
 Researched and read 13 research papers to identify edge cases related to the two Smart Contracts bug detectors
 Skills: SPARQL, Python, JDK 12 (Programming Languages), Research, Auditing
