@@ -21,7 +21,7 @@ Built a robust Customer Relationship Management (CRM) application, allowing empl
 <em>Skills:</em> MySQL, JavaScript (Programming Languages), AWS Full Stack-development </br></br>
 
 ## 📽️ Projects:
-**Algorithmic Trading – Machine Learning Model** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; December 2022 – Present</br>
+**Algorithmic Trading – Machine Learning Model** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; December 2022 – Present</br>
 Developing a live trading model using statistical methods and machine learning for identifying and executing trades.</br>
 <em>Skills:</em> yfinance, Python, Machine Learning, Statistical Arbitrage. </br></br>
 **Llama – Compiler and Translator**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;January 2022 – May 2022</br>
