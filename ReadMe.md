@@ -23,10 +23,10 @@ Built a robust Customer Relationship Management (CRM) application, allowing empl
 ## 📽️ Projects:
 **Algorithmic Trading – Machine Learning Model** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; December 2022 – Present</br>
 Developing a live trading model using statistical methods and machine learning for identifying and executing trades.</br>
-<em>Skills:</em> yfinance, Python, Machine Learning, Statistical Arbitrage. </br></br>
+<em>Skills:</em> yfinance, Python, Machine Learning, Statistical Arbitrage </br></br>
 **Llama – Compiler and Translator**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;January 2022 – May 2022</br>
 Designed and developed a new programming language, Llama, using OCaml for Abstract Syntax Tree, Parser, Semantic Checker, and IR generator.</br>
-<em>Skills:</em> OCaml, C++, AST, Parser, Semantic Analysis, LLVM IR)</br></br>
+<em>Skills:</em> OCaml, C++, AST, Parser, Semantic Analysis, LLVM IR</br></br>
 
 
 # 📊 GitHub Stats:
